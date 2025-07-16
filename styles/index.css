@@ -233,3 +233,7 @@ footer input[type="text"],  footer input[type="email"], footer textarea{
         text-align: center;
     }
 }
+/* tablet specific media query */
+@media screen and (min-width:576px) and (max-width:990px) {
+    
+}
